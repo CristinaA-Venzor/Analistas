@@ -1,0 +1,562 @@
+﻿Clave,Entidad federativa,Código,Rango de ingresos,Total
+00,Estados Unidos Mexicanos,0,Total,  221 281
+00,Estados Unidos Mexicanos,1,Sin paga,  26
+00,Estados Unidos Mexicanos,2,"De 1 a 5,000 pesos", 4 859
+00,Estados Unidos Mexicanos,3,"De 5,001 a 10,000 pesos", 28 111
+00,Estados Unidos Mexicanos,4,"De 10,001 a 15,000 pesos", 75 697
+00,Estados Unidos Mexicanos,5,"De 15,001 a 20,000 pesos", 79 375
+00,Estados Unidos Mexicanos,6,"De 20,001 a 25,000 pesos", 21 254
+00,Estados Unidos Mexicanos,7,"De 25,001 a 30,000 pesos", 7 635
+00,Estados Unidos Mexicanos,8,"De 30,001 a 35,000 pesos", 1 665
+00,Estados Unidos Mexicanos,9,"De 35,001 a 40,000 pesos",  856
+00,Estados Unidos Mexicanos,10,"De 40,001 a 45,000 pesos",  284
+00,Estados Unidos Mexicanos,11,"De 45,001 a 50,000 pesos",  573
+00,Estados Unidos Mexicanos,12,"De 50,001 a 55,000 pesos",  200
+00,Estados Unidos Mexicanos,13,"De 55,001 a 60,000 pesos",  252
+00,Estados Unidos Mexicanos,14,"De 60,001 a 65,000 pesos",  97
+00,Estados Unidos Mexicanos,15,"De 65,001 a 70,000 pesos",  132
+00,Estados Unidos Mexicanos,16,"Más de 70,000 pesos",  265
+01,Aguascalientes,0,Total,  784
+01,Aguascalientes,1,Sin paga,  0
+01,Aguascalientes,2,"De 1 a 5,000 pesos",  0
+01,Aguascalientes,3,"De 5,001 a 10,000 pesos",  0
+01,Aguascalientes,4,"De 10,001 a 15,000 pesos",  0
+01,Aguascalientes,5,"De 15,001 a 20,000 pesos",  493
+01,Aguascalientes,6,"De 20,001 a 25,000 pesos",  269
+01,Aguascalientes,7,"De 25,001 a 30,000 pesos",  11
+01,Aguascalientes,8,"De 30,001 a 35,000 pesos",  0
+01,Aguascalientes,9,"De 35,001 a 40,000 pesos",  6
+01,Aguascalientes,10,"De 40,001 a 45,000 pesos",  0
+01,Aguascalientes,11,"De 45,001 a 50,000 pesos",  0
+01,Aguascalientes,12,"De 50,001 a 55,000 pesos",  0
+01,Aguascalientes,13,"De 55,001 a 60,000 pesos",  0
+01,Aguascalientes,14,"De 60,001 a 65,000 pesos",  1
+01,Aguascalientes,15,"De 65,001 a 70,000 pesos",  2
+01,Aguascalientes,16,"Más de 70,000 pesos",  2
+02,Baja California,0,Total,  950
+02,Baja California,1,Sin paga,  0
+02,Baja California,2,"De 1 a 5,000 pesos",  0
+02,Baja California,3,"De 5,001 a 10,000 pesos",  21
+02,Baja California,4,"De 10,001 a 15,000 pesos",  107
+02,Baja California,5,"De 15,001 a 20,000 pesos",  59
+02,Baja California,6,"De 20,001 a 25,000 pesos",  46
+02,Baja California,7,"De 25,001 a 30,000 pesos",  577
+02,Baja California,8,"De 30,001 a 35,000 pesos",  73
+02,Baja California,9,"De 35,001 a 40,000 pesos",  31
+02,Baja California,10,"De 40,001 a 45,000 pesos",  13
+02,Baja California,11,"De 45,001 a 50,000 pesos",  6
+02,Baja California,12,"De 50,001 a 55,000 pesos",  14
+02,Baja California,13,"De 55,001 a 60,000 pesos",  2
+02,Baja California,14,"De 60,001 a 65,000 pesos",  1
+02,Baja California,15,"De 65,001 a 70,000 pesos",  0
+02,Baja California,16,"Más de 70,000 pesos",  0
+03,Baja California Sur,0,Total,  975
+03,Baja California Sur,1,Sin paga,  0
+03,Baja California Sur,2,"De 1 a 5,000 pesos",  0
+03,Baja California Sur,3,"De 5,001 a 10,000 pesos",  132
+03,Baja California Sur,4,"De 10,001 a 15,000 pesos",  551
+03,Baja California Sur,5,"De 15,001 a 20,000 pesos",  209
+03,Baja California Sur,6,"De 20,001 a 25,000 pesos",  52
+03,Baja California Sur,7,"De 25,001 a 30,000 pesos",  12
+03,Baja California Sur,8,"De 30,001 a 35,000 pesos",  14
+03,Baja California Sur,9,"De 35,001 a 40,000 pesos",  4
+03,Baja California Sur,10,"De 40,001 a 45,000 pesos",  0
+03,Baja California Sur,11,"De 45,001 a 50,000 pesos",  0
+03,Baja California Sur,12,"De 50,001 a 55,000 pesos",  0
+03,Baja California Sur,13,"De 55,001 a 60,000 pesos",  1
+03,Baja California Sur,14,"De 60,001 a 65,000 pesos",  0
+03,Baja California Sur,15,"De 65,001 a 70,000 pesos",  0
+03,Baja California Sur,16,"Más de 70,000 pesos",  0
+04,Campeche,0,Total, 1 985
+04,Campeche,1,Sin paga,  0
+04,Campeche,2,"De 1 a 5,000 pesos",  0
+04,Campeche,3,"De 5,001 a 10,000 pesos",  653
+04,Campeche,4,"De 10,001 a 15,000 pesos", 1 234
+04,Campeche,5,"De 15,001 a 20,000 pesos",  74
+04,Campeche,6,"De 20,001 a 25,000 pesos",  16
+04,Campeche,7,"De 25,001 a 30,000 pesos",  7
+04,Campeche,8,"De 30,001 a 35,000 pesos",  0
+04,Campeche,9,"De 35,001 a 40,000 pesos",  0
+04,Campeche,10,"De 40,001 a 45,000 pesos",  0
+04,Campeche,11,"De 45,001 a 50,000 pesos",  0
+04,Campeche,12,"De 50,001 a 55,000 pesos",  1
+04,Campeche,13,"De 55,001 a 60,000 pesos",  0
+04,Campeche,14,"De 60,001 a 65,000 pesos",  0
+04,Campeche,15,"De 65,001 a 70,000 pesos",  0
+04,Campeche,16,"Más de 70,000 pesos",  0
+05,Coahuila de Zaragoza,0,Total, 2 130
+05,Coahuila de Zaragoza,1,Sin paga,  0
+05,Coahuila de Zaragoza,2,"De 1 a 5,000 pesos",  16
+05,Coahuila de Zaragoza,3,"De 5,001 a 10,000 pesos",  219
+05,Coahuila de Zaragoza,4,"De 10,001 a 15,000 pesos", 1 553
+05,Coahuila de Zaragoza,5,"De 15,001 a 20,000 pesos",  40
+05,Coahuila de Zaragoza,6,"De 20,001 a 25,000 pesos",  5
+05,Coahuila de Zaragoza,7,"De 25,001 a 30,000 pesos",  275
+05,Coahuila de Zaragoza,8,"De 30,001 a 35,000 pesos",  8
+05,Coahuila de Zaragoza,9,"De 35,001 a 40,000 pesos",  2
+05,Coahuila de Zaragoza,10,"De 40,001 a 45,000 pesos",  3
+05,Coahuila de Zaragoza,11,"De 45,001 a 50,000 pesos",  0
+05,Coahuila de Zaragoza,12,"De 50,001 a 55,000 pesos",  0
+05,Coahuila de Zaragoza,13,"De 55,001 a 60,000 pesos",  5
+05,Coahuila de Zaragoza,14,"De 60,001 a 65,000 pesos",  0
+05,Coahuila de Zaragoza,15,"De 65,001 a 70,000 pesos",  0
+05,Coahuila de Zaragoza,16,"Más de 70,000 pesos",  4
+06,Colima,0,Total,  679
+06,Colima,1,Sin paga,  0
+06,Colima,2,"De 1 a 5,000 pesos",  0
+06,Colima,3,"De 5,001 a 10,000 pesos",  3
+06,Colima,4,"De 10,001 a 15,000 pesos",  388
+06,Colima,5,"De 15,001 a 20,000 pesos",  226
+06,Colima,6,"De 20,001 a 25,000 pesos",  43
+06,Colima,7,"De 25,001 a 30,000 pesos",  3
+06,Colima,8,"De 30,001 a 35,000 pesos",  0
+06,Colima,9,"De 35,001 a 40,000 pesos",  15
+06,Colima,10,"De 40,001 a 45,000 pesos",  0
+06,Colima,11,"De 45,001 a 50,000 pesos",  0
+06,Colima,12,"De 50,001 a 55,000 pesos",  0
+06,Colima,13,"De 55,001 a 60,000 pesos",  0
+06,Colima,14,"De 60,001 a 65,000 pesos",  0
+06,Colima,15,"De 65,001 a 70,000 pesos",  1
+06,Colima,16,"Más de 70,000 pesos",  0
+07,Chiapas,0,Total, 7 017
+07,Chiapas,1,Sin paga,  0
+07,Chiapas,2,"De 1 a 5,000 pesos",  14
+07,Chiapas,3,"De 5,001 a 10,000 pesos", 3 940
+07,Chiapas,4,"De 10,001 a 15,000 pesos", 2 088
+07,Chiapas,5,"De 15,001 a 20,000 pesos",  570
+07,Chiapas,6,"De 20,001 a 25,000 pesos",  286
+07,Chiapas,7,"De 25,001 a 30,000 pesos",  101
+07,Chiapas,8,"De 30,001 a 35,000 pesos",  14
+07,Chiapas,9,"De 35,001 a 40,000 pesos",  3
+07,Chiapas,10,"De 40,001 a 45,000 pesos",  0
+07,Chiapas,11,"De 45,001 a 50,000 pesos",  0
+07,Chiapas,12,"De 50,001 a 55,000 pesos",  0
+07,Chiapas,13,"De 55,001 a 60,000 pesos",  0
+07,Chiapas,14,"De 60,001 a 65,000 pesos",  0
+07,Chiapas,15,"De 65,001 a 70,000 pesos",  0
+07,Chiapas,16,"Más de 70,000 pesos",  1
+08,Chihuahua,0,Total, 2 395
+08,Chihuahua,1,Sin paga,  0
+08,Chihuahua,2,"De 1 a 5,000 pesos",  0
+08,Chihuahua,3,"De 5,001 a 10,000 pesos",  96
+08,Chihuahua,4,"De 10,001 a 15,000 pesos",  359
+08,Chihuahua,5,"De 15,001 a 20,000 pesos", 1 218
+08,Chihuahua,6,"De 20,001 a 25,000 pesos",  540
+08,Chihuahua,7,"De 25,001 a 30,000 pesos",  114
+08,Chihuahua,8,"De 30,001 a 35,000 pesos",  11
+08,Chihuahua,9,"De 35,001 a 40,000 pesos",  26
+08,Chihuahua,10,"De 40,001 a 45,000 pesos",  6
+08,Chihuahua,11,"De 45,001 a 50,000 pesos",  1
+08,Chihuahua,12,"De 50,001 a 55,000 pesos",  14
+08,Chihuahua,13,"De 55,001 a 60,000 pesos",  0
+08,Chihuahua,14,"De 60,001 a 65,000 pesos",  7
+08,Chihuahua,15,"De 65,001 a 70,000 pesos",  1
+08,Chihuahua,16,"Más de 70,000 pesos",  2
+09,Ciudad de MéxicoP,0,Total, 88 386
+09,Ciudad de MéxicoP,1,Sin paga,  0
+09,Ciudad de MéxicoP,2,"De 1 a 5,000 pesos",  21
+09,Ciudad de MéxicoP,3,"De 5,001 a 10,000 pesos", 3 210
+09,Ciudad de MéxicoP,4,"De 10,001 a 15,000 pesos", 44 077
+09,Ciudad de MéxicoP,5,"De 15,001 a 20,000 pesos", 36 325
+09,Ciudad de MéxicoP,6,"De 20,001 a 25,000 pesos", 2 798
+09,Ciudad de MéxicoP,7,"De 25,001 a 30,000 pesos",  470
+09,Ciudad de MéxicoP,8,"De 30,001 a 35,000 pesos",  568
+09,Ciudad de MéxicoP,9,"De 35,001 a 40,000 pesos",  395
+09,Ciudad de MéxicoP,10,"De 40,001 a 45,000 pesos",  81
+09,Ciudad de MéxicoP,11,"De 45,001 a 50,000 pesos",  74
+09,Ciudad de MéxicoP,12,"De 50,001 a 55,000 pesos",  37
+09,Ciudad de MéxicoP,13,"De 55,001 a 60,000 pesos",  202
+09,Ciudad de MéxicoP,14,"De 60,001 a 65,000 pesos",  20
+09,Ciudad de MéxicoP,15,"De 65,001 a 70,000 pesos",  4
+09,Ciudad de MéxicoP,16,"Más de 70,000 pesos",  104
+10,Durango,0,Total, 1 456
+10,Durango,1,Sin paga,  0
+10,Durango,2,"De 1 a 5,000 pesos",  4
+10,Durango,3,"De 5,001 a 10,000 pesos",  346
+10,Durango,4,"De 10,001 a 15,000 pesos", 1 006
+10,Durango,5,"De 15,001 a 20,000 pesos",  50
+10,Durango,6,"De 20,001 a 25,000 pesos",  26
+10,Durango,7,"De 25,001 a 30,000 pesos",  4
+10,Durango,8,"De 30,001 a 35,000 pesos",  9
+10,Durango,9,"De 35,001 a 40,000 pesos",  4
+10,Durango,10,"De 40,001 a 45,000 pesos",  1
+10,Durango,11,"De 45,001 a 50,000 pesos",  2
+10,Durango,12,"De 50,001 a 55,000 pesos",  1
+10,Durango,13,"De 55,001 a 60,000 pesos",  1
+10,Durango,14,"De 60,001 a 65,000 pesos",  0
+10,Durango,15,"De 65,001 a 70,000 pesos",  2
+10,Durango,16,"Más de 70,000 pesos",  0
+11,Guanajuato,0,Total, 4 152
+11,Guanajuato,1,Sin paga,-
+11,Guanajuato,2,"De 1 a 5,000 pesos",-
+11,Guanajuato,3,"De 5,001 a 10,000 pesos",-
+11,Guanajuato,4,"De 10,001 a 15,000 pesos",-
+11,Guanajuato,5,"De 15,001 a 20,000 pesos",-
+11,Guanajuato,6,"De 20,001 a 25,000 pesos", 2 738
+11,Guanajuato,7,"De 25,001 a 30,000 pesos",  934
+11,Guanajuato,8,"De 30,001 a 35,000 pesos",  171
+11,Guanajuato,9,"De 35,001 a 40,000 pesos",  36
+11,Guanajuato,10,"De 40,001 a 45,000 pesos",-
+11,Guanajuato,11,"De 45,001 a 50,000 pesos",  239
+11,Guanajuato,12,"De 50,001 a 55,000 pesos",  13
+11,Guanajuato,13,"De 55,001 a 60,000 pesos",-
+11,Guanajuato,14,"De 60,001 a 65,000 pesos",  6
+11,Guanajuato,15,"De 65,001 a 70,000 pesos",-
+11,Guanajuato,16,"Más de 70,000 pesos",  15
+12,Guerrero,0,Total, 5 966
+12,Guerrero,1,Sin paga,  0
+12,Guerrero,2,"De 1 a 5,000 pesos", 1 397
+12,Guerrero,3,"De 5,001 a 10,000 pesos",  238
+12,Guerrero,4,"De 10,001 a 15,000 pesos", 3 498
+12,Guerrero,5,"De 15,001 a 20,000 pesos",  736
+12,Guerrero,6,"De 20,001 a 25,000 pesos",  57
+12,Guerrero,7,"De 25,001 a 30,000 pesos",  19
+12,Guerrero,8,"De 30,001 a 35,000 pesos",  9
+12,Guerrero,9,"De 35,001 a 40,000 pesos",  8
+12,Guerrero,10,"De 40,001 a 45,000 pesos",  0
+12,Guerrero,11,"De 45,001 a 50,000 pesos",  0
+12,Guerrero,12,"De 50,001 a 55,000 pesos",  0
+12,Guerrero,13,"De 55,001 a 60,000 pesos",  3
+12,Guerrero,14,"De 60,001 a 65,000 pesos",  0
+12,Guerrero,15,"De 65,001 a 70,000 pesos",  0
+12,Guerrero,16,"Más de 70,000 pesos",  1
+13,Hidalgo,0,Total, 5 173
+13,Hidalgo,1,Sin paga,  0
+13,Hidalgo,2,"De 1 a 5,000 pesos",  6
+13,Hidalgo,3,"De 5,001 a 10,000 pesos", 2 443
+13,Hidalgo,4,"De 10,001 a 15,000 pesos", 2 131
+13,Hidalgo,5,"De 15,001 a 20,000 pesos",  437
+13,Hidalgo,6,"De 20,001 a 25,000 pesos",  94
+13,Hidalgo,7,"De 25,001 a 30,000 pesos",  39
+13,Hidalgo,8,"De 30,001 a 35,000 pesos",  7
+13,Hidalgo,9,"De 35,001 a 40,000 pesos",  0
+13,Hidalgo,10,"De 40,001 a 45,000 pesos",  11
+13,Hidalgo,11,"De 45,001 a 50,000 pesos",  3
+13,Hidalgo,12,"De 50,001 a 55,000 pesos",  2
+13,Hidalgo,13,"De 55,001 a 60,000 pesos",  0
+13,Hidalgo,14,"De 60,001 a 65,000 pesos",  0
+13,Hidalgo,15,"De 65,001 a 70,000 pesos",  0
+13,Hidalgo,16,"Más de 70,000 pesos",  0
+14,Jalisco,0,Total, 5 818
+14,Jalisco,1,Sin paga,  0
+14,Jalisco,2,"De 1 a 5,000 pesos",  0
+14,Jalisco,3,"De 5,001 a 10,000 pesos",  3
+14,Jalisco,4,"De 10,001 a 15,000 pesos",  503
+14,Jalisco,5,"De 15,001 a 20,000 pesos", 1 511
+14,Jalisco,6,"De 20,001 a 25,000 pesos", 3 397
+14,Jalisco,7,"De 25,001 a 30,000 pesos",  268
+14,Jalisco,8,"De 30,001 a 35,000 pesos",  50
+14,Jalisco,9,"De 35,001 a 40,000 pesos",  24
+14,Jalisco,10,"De 40,001 a 45,000 pesos",  23
+14,Jalisco,11,"De 45,001 a 50,000 pesos",  5
+14,Jalisco,12,"De 50,001 a 55,000 pesos",  12
+14,Jalisco,13,"De 55,001 a 60,000 pesos",  7
+14,Jalisco,14,"De 60,001 a 65,000 pesos",  7
+14,Jalisco,15,"De 65,001 a 70,000 pesos",  4
+14,Jalisco,16,"Más de 70,000 pesos",  4
+15,México,0,Total, 20 122
+15,México,1,Sin paga,  0
+15,México,2,"De 1 a 5,000 pesos",  0
+15,México,3,"De 5,001 a 10,000 pesos",  0
+15,México,4,"De 10,001 a 15,000 pesos", 2 163
+15,México,5,"De 15,001 a 20,000 pesos", 12 179
+15,México,6,"De 20,001 a 25,000 pesos", 2 846
+15,México,7,"De 25,001 a 30,000 pesos", 2 590
+15,México,8,"De 30,001 a 35,000 pesos",  178
+15,México,9,"De 35,001 a 40,000 pesos",  84
+15,México,10,"De 40,001 a 45,000 pesos",  30
+15,México,11,"De 45,001 a 50,000 pesos",  3
+15,México,12,"De 50,001 a 55,000 pesos",  11
+15,México,13,"De 55,001 a 60,000 pesos",  7
+15,México,14,"De 60,001 a 65,000 pesos",  7
+15,México,15,"De 65,001 a 70,000 pesos",  4
+15,México,16,"Más de 70,000 pesos",  20
+16,Michoacán de Ocampo1,0,Total, 1 414
+16,Michoacán de Ocampo1,1,Sin paga,  0
+16,Michoacán de Ocampo1,2,"De 1 a 5,000 pesos",  0
+16,Michoacán de Ocampo1,3,"De 5,001 a 10,000 pesos",  549
+16,Michoacán de Ocampo1,4,"De 10,001 a 15,000 pesos",  796
+16,Michoacán de Ocampo1,5,"De 15,001 a 20,000 pesos",  29
+16,Michoacán de Ocampo1,6,"De 20,001 a 25,000 pesos",  9
+16,Michoacán de Ocampo1,7,"De 25,001 a 30,000 pesos",  6
+16,Michoacán de Ocampo1,8,"De 30,001 a 35,000 pesos",  0
+16,Michoacán de Ocampo1,9,"De 35,001 a 40,000 pesos",  8
+16,Michoacán de Ocampo1,10,"De 40,001 a 45,000 pesos",  0
+16,Michoacán de Ocampo1,11,"De 45,001 a 50,000 pesos",  3
+16,Michoacán de Ocampo1,12,"De 50,001 a 55,000 pesos",  12
+16,Michoacán de Ocampo1,13,"De 55,001 a 60,000 pesos",  0
+16,Michoacán de Ocampo1,14,"De 60,001 a 65,000 pesos",  1
+16,Michoacán de Ocampo1,15,"De 65,001 a 70,000 pesos",  0
+16,Michoacán de Ocampo1,16,"Más de 70,000 pesos",  1
+17,Morelos,0,Total, 1 804
+17,Morelos,1,Sin paga,  0
+17,Morelos,2,"De 1 a 5,000 pesos",  19
+17,Morelos,3,"De 5,001 a 10,000 pesos",  657
+17,Morelos,4,"De 10,001 a 15,000 pesos",  957
+17,Morelos,5,"De 15,001 a 20,000 pesos",  120
+17,Morelos,6,"De 20,001 a 25,000 pesos",  22
+17,Morelos,7,"De 25,001 a 30,000 pesos",  4
+17,Morelos,8,"De 30,001 a 35,000 pesos",  10
+17,Morelos,9,"De 35,001 a 40,000 pesos",  2
+17,Morelos,10,"De 40,001 a 45,000 pesos",  8
+17,Morelos,11,"De 45,001 a 50,000 pesos",  0
+17,Morelos,12,"De 50,001 a 55,000 pesos",  4
+17,Morelos,13,"De 55,001 a 60,000 pesos",  0
+17,Morelos,14,"De 60,001 a 65,000 pesos",  1
+17,Morelos,15,"De 65,001 a 70,000 pesos",  0
+17,Morelos,16,"Más de 70,000 pesos",  0
+18,Nayarit,0,Total, 1 728
+18,Nayarit,1,Sin paga,  0
+18,Nayarit,2,"De 1 a 5,000 pesos",  1
+18,Nayarit,3,"De 5,001 a 10,000 pesos",  2
+18,Nayarit,4,"De 10,001 a 15,000 pesos", 1 092
+18,Nayarit,5,"De 15,001 a 20,000 pesos",  252
+18,Nayarit,6,"De 20,001 a 25,000 pesos",  352
+18,Nayarit,7,"De 25,001 a 30,000 pesos",  26
+18,Nayarit,8,"De 30,001 a 35,000 pesos",  2
+18,Nayarit,9,"De 35,001 a 40,000 pesos",  0
+18,Nayarit,10,"De 40,001 a 45,000 pesos",  0
+18,Nayarit,11,"De 45,001 a 50,000 pesos",  0
+18,Nayarit,12,"De 50,001 a 55,000 pesos",  1
+18,Nayarit,13,"De 55,001 a 60,000 pesos",  0
+18,Nayarit,14,"De 60,001 a 65,000 pesos",  0
+18,Nayarit,15,"De 65,001 a 70,000 pesos",  0
+18,Nayarit,16,"Más de 70,000 pesos",  0
+19,Nuevo León,0,Total, 7 359
+19,Nuevo León,1,Sin paga,  0
+19,Nuevo León,2,"De 1 a 5,000 pesos",  0
+19,Nuevo León,3,"De 5,001 a 10,000 pesos",  1
+19,Nuevo León,4,"De 10,001 a 15,000 pesos",  84
+19,Nuevo León,5,"De 15,001 a 20,000 pesos", 4 080
+19,Nuevo León,6,"De 20,001 a 25,000 pesos", 1 833
+19,Nuevo León,7,"De 25,001 a 30,000 pesos",  860
+19,Nuevo León,8,"De 30,001 a 35,000 pesos",  47
+19,Nuevo León,9,"De 35,001 a 40,000 pesos",  32
+19,Nuevo León,10,"De 40,001 a 45,000 pesos",  32
+19,Nuevo León,11,"De 45,001 a 50,000 pesos",  166
+19,Nuevo León,12,"De 50,001 a 55,000 pesos",  19
+19,Nuevo León,13,"De 55,001 a 60,000 pesos",  13
+19,Nuevo León,14,"De 60,001 a 65,000 pesos",  17
+19,Nuevo León,15,"De 65,001 a 70,000 pesos",  100
+19,Nuevo León,16,"Más de 70,000 pesos",  75
+20,Oaxaca,0,Total, 8 202
+20,Oaxaca,1,Sin paga,  0
+20,Oaxaca,2,"De 1 a 5,000 pesos",  0
+20,Oaxaca,3,"De 5,001 a 10,000 pesos", 6 874
+20,Oaxaca,4,"De 10,001 a 15,000 pesos",  643
+20,Oaxaca,5,"De 15,001 a 20,000 pesos",  422
+20,Oaxaca,6,"De 20,001 a 25,000 pesos",  249
+20,Oaxaca,7,"De 25,001 a 30,000 pesos",  0
+20,Oaxaca,8,"De 30,001 a 35,000 pesos",  0
+20,Oaxaca,9,"De 35,001 a 40,000 pesos",  0
+20,Oaxaca,10,"De 40,001 a 45,000 pesos",  0
+20,Oaxaca,11,"De 45,001 a 50,000 pesos",  11
+20,Oaxaca,12,"De 50,001 a 55,000 pesos",  0
+20,Oaxaca,13,"De 55,001 a 60,000 pesos",  3
+20,Oaxaca,14,"De 60,001 a 65,000 pesos",  0
+20,Oaxaca,15,"De 65,001 a 70,000 pesos",  0
+20,Oaxaca,16,"Más de 70,000 pesos",  0
+21,Puebla,0,Total, 6 230
+21,Puebla,1,Sin paga,  0
+21,Puebla,2,"De 1 a 5,000 pesos",  2
+21,Puebla,3,"De 5,001 a 10,000 pesos",  120
+21,Puebla,4,"De 10,001 a 15,000 pesos", 4 822
+21,Puebla,5,"De 15,001 a 20,000 pesos",  863
+21,Puebla,6,"De 20,001 a 25,000 pesos",  139
+21,Puebla,7,"De 25,001 a 30,000 pesos",  151
+21,Puebla,8,"De 30,001 a 35,000 pesos",  97
+21,Puebla,9,"De 35,001 a 40,000 pesos",  15
+21,Puebla,10,"De 40,001 a 45,000 pesos",  15
+21,Puebla,11,"De 45,001 a 50,000 pesos",  1
+21,Puebla,12,"De 50,001 a 55,000 pesos",  2
+21,Puebla,13,"De 55,001 a 60,000 pesos",  1
+21,Puebla,14,"De 60,001 a 65,000 pesos",  0
+21,Puebla,15,"De 65,001 a 70,000 pesos",  1
+21,Puebla,16,"Más de 70,000 pesos",  1
+22,Querétaro,0,Total, 1 109
+22,Querétaro,1,Sin paga,  0
+22,Querétaro,2,"De 1 a 5,000 pesos",  0
+22,Querétaro,3,"De 5,001 a 10,000 pesos",  0
+22,Querétaro,4,"De 10,001 a 15,000 pesos",  129
+22,Querétaro,5,"De 15,001 a 20,000 pesos",  845
+22,Querétaro,6,"De 20,001 a 25,000 pesos",  76
+22,Querétaro,7,"De 25,001 a 30,000 pesos",  16
+22,Querétaro,8,"De 30,001 a 35,000 pesos",  15
+22,Querétaro,9,"De 35,001 a 40,000 pesos",  9
+22,Querétaro,10,"De 40,001 a 45,000 pesos",  7
+22,Querétaro,11,"De 45,001 a 50,000 pesos",  5
+22,Querétaro,12,"De 50,001 a 55,000 pesos",  0
+22,Querétaro,13,"De 55,001 a 60,000 pesos",  2
+22,Querétaro,14,"De 60,001 a 65,000 pesos",  3
+22,Querétaro,15,"De 65,001 a 70,000 pesos",  0
+22,Querétaro,16,"Más de 70,000 pesos",  2
+23,Quintana Roo,0,Total, 2 304
+23,Quintana Roo,1,Sin paga,  0
+23,Quintana Roo,2,"De 1 a 5,000 pesos",  0
+23,Quintana Roo,3,"De 5,001 a 10,000 pesos",  332
+23,Quintana Roo,4,"De 10,001 a 15,000 pesos",  56
+23,Quintana Roo,5,"De 15,001 a 20,000 pesos", 1 335
+23,Quintana Roo,6,"De 20,001 a 25,000 pesos",  284
+23,Quintana Roo,7,"De 25,001 a 30,000 pesos",  93
+23,Quintana Roo,8,"De 30,001 a 35,000 pesos",  62
+23,Quintana Roo,9,"De 35,001 a 40,000 pesos",  78
+23,Quintana Roo,10,"De 40,001 a 45,000 pesos",  18
+23,Quintana Roo,11,"De 45,001 a 50,000 pesos",  14
+23,Quintana Roo,12,"De 50,001 a 55,000 pesos",  9
+23,Quintana Roo,13,"De 55,001 a 60,000 pesos",  3
+23,Quintana Roo,14,"De 60,001 a 65,000 pesos",  1
+23,Quintana Roo,15,"De 65,001 a 70,000 pesos",  10
+23,Quintana Roo,16,"Más de 70,000 pesos",  9
+24,San Luis Potosí,0,Total, 3 632
+24,San Luis Potosí,1,Sin paga,  0
+24,San Luis Potosí,2,"De 1 a 5,000 pesos",  0
+24,San Luis Potosí,3,"De 5,001 a 10,000 pesos",  0
+24,San Luis Potosí,4,"De 10,001 a 15,000 pesos",  79
+24,San Luis Potosí,5,"De 15,001 a 20,000 pesos",  249
+24,San Luis Potosí,6,"De 20,001 a 25,000 pesos", 2 766
+24,San Luis Potosí,7,"De 25,001 a 30,000 pesos",  445
+24,San Luis Potosí,8,"De 30,001 a 35,000 pesos",  89
+24,San Luis Potosí,9,"De 35,001 a 40,000 pesos",  4
+24,San Luis Potosí,10,"De 40,001 a 45,000 pesos",  0
+24,San Luis Potosí,11,"De 45,001 a 50,000 pesos",  0
+24,San Luis Potosí,12,"De 50,001 a 55,000 pesos",  0
+24,San Luis Potosí,13,"De 55,001 a 60,000 pesos",  0
+24,San Luis Potosí,14,"De 60,001 a 65,000 pesos",  0
+24,San Luis Potosí,15,"De 65,001 a 70,000 pesos",  0
+24,San Luis Potosí,16,"Más de 70,000 pesos",  0
+25,Sinaloa,0,Total, 1 811
+25,Sinaloa,1,Sin paga,  0
+25,Sinaloa,2,"De 1 a 5,000 pesos",  0
+25,Sinaloa,3,"De 5,001 a 10,000 pesos",  54
+25,Sinaloa,4,"De 10,001 a 15,000 pesos", 1 431
+25,Sinaloa,5,"De 15,001 a 20,000 pesos",  236
+25,Sinaloa,6,"De 20,001 a 25,000 pesos",  43
+25,Sinaloa,7,"De 25,001 a 30,000 pesos",  26
+25,Sinaloa,8,"De 30,001 a 35,000 pesos",  10
+25,Sinaloa,9,"De 35,001 a 40,000 pesos",  5
+25,Sinaloa,10,"De 40,001 a 45,000 pesos",  2
+25,Sinaloa,11,"De 45,001 a 50,000 pesos",  2
+25,Sinaloa,12,"De 50,001 a 55,000 pesos",  1
+25,Sinaloa,13,"De 55,001 a 60,000 pesos",  1
+25,Sinaloa,14,"De 60,001 a 65,000 pesos",  0
+25,Sinaloa,15,"De 65,001 a 70,000 pesos",  0
+25,Sinaloa,16,"Más de 70,000 pesos",  0
+26,Sonora,0,Total, 1 792
+26,Sonora,1,Sin paga,  0
+26,Sonora,2,"De 1 a 5,000 pesos",  0
+26,Sonora,3,"De 5,001 a 10,000 pesos",  10
+26,Sonora,4,"De 10,001 a 15,000 pesos",  334
+26,Sonora,5,"De 15,001 a 20,000 pesos",  647
+26,Sonora,6,"De 20,001 a 25,000 pesos",  677
+26,Sonora,7,"De 25,001 a 30,000 pesos",  83
+26,Sonora,8,"De 30,001 a 35,000 pesos",  11
+26,Sonora,9,"De 35,001 a 40,000 pesos",  0
+26,Sonora,10,"De 40,001 a 45,000 pesos",  0
+26,Sonora,11,"De 45,001 a 50,000 pesos",  21
+26,Sonora,12,"De 50,001 a 55,000 pesos",  0
+26,Sonora,13,"De 55,001 a 60,000 pesos",  0
+26,Sonora,14,"De 60,001 a 65,000 pesos",  8
+26,Sonora,15,"De 65,001 a 70,000 pesos",  0
+26,Sonora,16,"Más de 70,000 pesos",  1
+27,Tabasco,0,Total, 7 549
+27,Tabasco,1,Sin paga,  0
+27,Tabasco,2,"De 1 a 5,000 pesos", 3 379
+27,Tabasco,3,"De 5,001 a 10,000 pesos", 4 170
+27,Tabasco,4,"De 10,001 a 15,000 pesos",  0
+27,Tabasco,5,"De 15,001 a 20,000 pesos",  0
+27,Tabasco,6,"De 20,001 a 25,000 pesos",  0
+27,Tabasco,7,"De 25,001 a 30,000 pesos",  0
+27,Tabasco,8,"De 30,001 a 35,000 pesos",  0
+27,Tabasco,9,"De 35,001 a 40,000 pesos",  0
+27,Tabasco,10,"De 40,001 a 45,000 pesos",  0
+27,Tabasco,11,"De 45,001 a 50,000 pesos",  0
+27,Tabasco,12,"De 50,001 a 55,000 pesos",  0
+27,Tabasco,13,"De 55,001 a 60,000 pesos",  0
+27,Tabasco,14,"De 60,001 a 65,000 pesos",  0
+27,Tabasco,15,"De 65,001 a 70,000 pesos",  0
+27,Tabasco,16,"Más de 70,000 pesos",  0
+28,Tamaulipas,0,Total, 4 684
+28,Tamaulipas,1,Sin paga,  26
+28,Tamaulipas,2,"De 1 a 5,000 pesos",  0
+28,Tamaulipas,3,"De 5,001 a 10,000 pesos",  400
+28,Tamaulipas,4,"De 10,001 a 15,000 pesos",  29
+28,Tamaulipas,5,"De 15,001 a 20,000 pesos", 3 820
+28,Tamaulipas,6,"De 20,001 a 25,000 pesos",  253
+28,Tamaulipas,7,"De 25,001 a 30,000 pesos",  103
+28,Tamaulipas,8,"De 30,001 a 35,000 pesos",  32
+28,Tamaulipas,9,"De 35,001 a 40,000 pesos",  14
+28,Tamaulipas,10,"De 40,001 a 45,000 pesos",  0
+28,Tamaulipas,11,"De 45,001 a 50,000 pesos",  1
+28,Tamaulipas,12,"De 50,001 a 55,000 pesos",  4
+28,Tamaulipas,13,"De 55,001 a 60,000 pesos",  0
+28,Tamaulipas,14,"De 60,001 a 65,000 pesos",  1
+28,Tamaulipas,15,"De 65,001 a 70,000 pesos",  1
+28,Tamaulipas,16,"Más de 70,000 pesos",  0
+29,Tlaxcala,0,Total, 1 890
+29,Tlaxcala,1,Sin paga,  0
+29,Tlaxcala,2,"De 1 a 5,000 pesos",  0
+29,Tlaxcala,3,"De 5,001 a 10,000 pesos",  79
+29,Tlaxcala,4,"De 10,001 a 15,000 pesos", 1 400
+29,Tlaxcala,5,"De 15,001 a 20,000 pesos",  285
+29,Tlaxcala,6,"De 20,001 a 25,000 pesos",  22
+29,Tlaxcala,7,"De 25,001 a 30,000 pesos",  68
+29,Tlaxcala,8,"De 30,001 a 35,000 pesos",  23
+29,Tlaxcala,9,"De 35,001 a 40,000 pesos",  0
+29,Tlaxcala,10,"De 40,001 a 45,000 pesos",  5
+29,Tlaxcala,11,"De 45,001 a 50,000 pesos",  3
+29,Tlaxcala,12,"De 50,001 a 55,000 pesos",  1
+29,Tlaxcala,13,"De 55,001 a 60,000 pesos",  0
+29,Tlaxcala,14,"De 60,001 a 65,000 pesos",  1
+29,Tlaxcala,15,"De 65,001 a 70,000 pesos",  0
+29,Tlaxcala,16,"Más de 70,000 pesos",  3
+30,Veracruz de Ignacio de la Llave2,0,Total, 13 683
+30,Veracruz de Ignacio de la Llave2,1,Sin paga,  0
+30,Veracruz de Ignacio de la Llave2,2,"De 1 a 5,000 pesos",  0
+30,Veracruz de Ignacio de la Llave2,3,"De 5,001 a 10,000 pesos", 2 800
+30,Veracruz de Ignacio de la Llave2,4,"De 10,001 a 15,000 pesos", 2 896
+30,Veracruz de Ignacio de la Llave2,5,"De 15,001 a 20,000 pesos", 7 178
+30,Veracruz de Ignacio de la Llave2,6,"De 20,001 a 25,000 pesos",  553
+30,Veracruz de Ignacio de la Llave2,7,"De 25,001 a 30,000 pesos",  130
+30,Veracruz de Ignacio de la Llave2,8,"De 30,001 a 35,000 pesos",  85
+30,Veracruz de Ignacio de la Llave2,9,"De 35,001 a 40,000 pesos",  14
+30,Veracruz de Ignacio de la Llave2,10,"De 40,001 a 45,000 pesos",  10
+30,Veracruz de Ignacio de la Llave2,11,"De 45,001 a 50,000 pesos",  3
+30,Veracruz de Ignacio de la Llave2,12,"De 50,001 a 55,000 pesos",  13
+30,Veracruz de Ignacio de la Llave2,13,"De 55,001 a 60,000 pesos",  0
+30,Veracruz de Ignacio de la Llave2,14,"De 60,001 a 65,000 pesos",  1
+30,Veracruz de Ignacio de la Llave2,15,"De 65,001 a 70,000 pesos",  0
+30,Veracruz de Ignacio de la Llave2,16,"Más de 70,000 pesos",  0
+31,Yucatán,0,Total, 5 364
+31,Yucatán,1,Sin paga,  0
+31,Yucatán,2,"De 1 a 5,000 pesos",  0
+31,Yucatán,3,"De 5,001 a 10,000 pesos",  666
+31,Yucatán,4,"De 10,001 a 15,000 pesos",  594
+31,Yucatán,5,"De 15,001 a 20,000 pesos", 3 121
+31,Yucatán,6,"De 20,001 a 25,000 pesos",  643
+31,Yucatán,7,"De 25,001 a 30,000 pesos",  140
+31,Yucatán,8,"De 30,001 a 35,000 pesos",  69
+31,Yucatán,9,"De 35,001 a 40,000 pesos",  36
+31,Yucatán,10,"De 40,001 a 45,000 pesos",  19
+31,Yucatán,11,"De 45,001 a 50,000 pesos",  10
+31,Yucatán,12,"De 50,001 a 55,000 pesos",  29
+31,Yucatán,13,"De 55,001 a 60,000 pesos",  1
+31,Yucatán,14,"De 60,001 a 65,000 pesos",  14
+31,Yucatán,15,"De 65,001 a 70,000 pesos",  2
+31,Yucatán,16,"Más de 70,000 pesos",  20
+32,Zacatecas,0,Total, 2 738
+32,Zacatecas,1,Sin paga,  0
+32,Zacatecas,2,"De 1 a 5,000 pesos",  0
+32,Zacatecas,3,"De 5,001 a 10,000 pesos",  93
+32,Zacatecas,4,"De 10,001 a 15,000 pesos",  697
+32,Zacatecas,5,"De 15,001 a 20,000 pesos", 1 766
+32,Zacatecas,6,"De 20,001 a 25,000 pesos",  120
+32,Zacatecas,7,"De 25,001 a 30,000 pesos",  60
+32,Zacatecas,8,"De 30,001 a 35,000 pesos",  1
+32,Zacatecas,9,"De 35,001 a 40,000 pesos",  1
+32,Zacatecas,10,"De 40,001 a 45,000 pesos",  0
+32,Zacatecas,11,"De 45,001 a 50,000 pesos",  0
+32,Zacatecas,12,"De 50,001 a 55,000 pesos",  0
+32,Zacatecas,13,"De 55,001 a 60,000 pesos",  0
+32,Zacatecas,14,"De 60,001 a 65,000 pesos",  0
+32,Zacatecas,15,"De 65,001 a 70,000 pesos",  0
+32,Zacatecas,16,"Más de 70,000 pesos",  0

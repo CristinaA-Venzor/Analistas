@@ -1,0 +1,300 @@
+﻿Clave,Entidad federativa,Código,Nivel de escolaridad,Total
+00,Estados Unidos Mexicanos,0,Total,  221 281
+00,Estados Unidos Mexicanos,1,Ninguno, 1 032
+00,Estados Unidos Mexicanos,2,Preescolar o primaria, 3 453
+00,Estados Unidos Mexicanos,3,Secundaria, 62 364
+00,Estados Unidos Mexicanos,4,Preparatoria, 109 907
+00,Estados Unidos Mexicanos,5,Carrera técnica o carrera comercial, 10 547
+00,Estados Unidos Mexicanos,6,Licenciatura, 32 010
+00,Estados Unidos Mexicanos,7,Maestría, 1 822
+00,Estados Unidos Mexicanos,8,Doctorado,  101
+00,Estados Unidos Mexicanos,99,No especificado,  45
+01,Aguascalientes,0,Total,  784
+01,Aguascalientes,1,Ninguno,  0
+01,Aguascalientes,2,Preescolar o primaria,  0
+01,Aguascalientes,3,Secundaria,  6
+01,Aguascalientes,4,Preparatoria,  528
+01,Aguascalientes,5,Carrera técnica o carrera comercial,  90
+01,Aguascalientes,6,Licenciatura,  159
+01,Aguascalientes,7,Maestría,  1
+01,Aguascalientes,8,Doctorado,  0
+02,Baja California,0,Total,  950
+02,Baja California,1,Ninguno,  0
+02,Baja California,2,Preescolar o primaria,  1
+02,Baja California,3,Secundaria,  129
+02,Baja California,4,Preparatoria,  186
+02,Baja California,5,Carrera técnica o carrera comercial,  25
+02,Baja California,6,Licenciatura,  608
+02,Baja California,7,Maestría,  1
+02,Baja California,8,Doctorado,  0
+03,Baja California Sur,0,Total,  975
+03,Baja California Sur,1,Ninguno,  1
+03,Baja California Sur,2,Preescolar o primaria,  10
+03,Baja California Sur,3,Secundaria,  126
+03,Baja California Sur,4,Preparatoria,  387
+03,Baja California Sur,5,Carrera técnica o carrera comercial,  27
+03,Baja California Sur,6,Licenciatura,  370
+03,Baja California Sur,7,Maestría,  4
+03,Baja California Sur,8,Doctorado,  5
+03,Baja California Sur,99,No especificado,  45
+04,Campeche,0,Total, 1 985
+04,Campeche,1,Ninguno,  0
+04,Campeche,2,Preescolar o primaria,  9
+04,Campeche,3,Secundaria,  55
+04,Campeche,4,Preparatoria, 1 697
+04,Campeche,5,Carrera técnica o carrera comercial,  17
+04,Campeche,6,Licenciatura,  205
+04,Campeche,7,Maestría,  2
+04,Campeche,8,Doctorado,  0
+05,Coahuila de Zaragoza,0,Total, 2 130
+05,Coahuila de Zaragoza,1,Ninguno,  0
+05,Coahuila de Zaragoza,2,Preescolar o primaria,  10
+05,Coahuila de Zaragoza,3,Secundaria,  375
+05,Coahuila de Zaragoza,4,Preparatoria, 1 331
+05,Coahuila de Zaragoza,5,Carrera técnica o carrera comercial,  125
+05,Coahuila de Zaragoza,6,Licenciatura,  277
+05,Coahuila de Zaragoza,7,Maestría,  12
+05,Coahuila de Zaragoza,8,Doctorado,  0
+06,Colima,0,Total,  679
+06,Colima,1,Ninguno,  0
+06,Colima,2,Preescolar o primaria,  2
+06,Colima,3,Secundaria,  110
+06,Colima,4,Preparatoria,  419
+06,Colima,5,Carrera técnica o carrera comercial,  12
+06,Colima,6,Licenciatura,  133
+06,Colima,7,Maestría,  3
+06,Colima,8,Doctorado,  0
+07,Chiapas,0,Total, 7 017
+07,Chiapas,1,Ninguno,  164
+07,Chiapas,2,Preescolar o primaria, 1 031
+07,Chiapas,3,Secundaria, 2 280
+07,Chiapas,4,Preparatoria, 2 135
+07,Chiapas,5,Carrera técnica o carrera comercial,  22
+07,Chiapas,6,Licenciatura, 1 359
+07,Chiapas,7,Maestría,  24
+07,Chiapas,8,Doctorado,  2
+08,Chihuahua,0,Total, 2 395
+08,Chihuahua,1,Ninguno,  0
+08,Chihuahua,2,Preescolar o primaria,  6
+08,Chihuahua,3,Secundaria,  179
+08,Chihuahua,4,Preparatoria, 1 354
+08,Chihuahua,5,Carrera técnica o carrera comercial,  37
+08,Chihuahua,6,Licenciatura,  766
+08,Chihuahua,7,Maestría,  51
+08,Chihuahua,8,Doctorado,  2
+09,Ciudad de MéxicoP,0,Total, 88 386
+09,Ciudad de MéxicoP,1,Ninguno,  2
+09,Ciudad de MéxicoP,2,Preescolar o primaria,  640
+09,Ciudad de MéxicoP,3,Secundaria, 32 652
+09,Ciudad de MéxicoP,4,Preparatoria, 47 530
+09,Ciudad de MéxicoP,5,Carrera técnica o carrera comercial, 1 293
+09,Ciudad de MéxicoP,6,Licenciatura, 5 852
+09,Ciudad de MéxicoP,7,Maestría,  389
+09,Ciudad de MéxicoP,8,Doctorado,  28
+10,Durango,0,Total, 1 456
+10,Durango,1,Ninguno,  0
+10,Durango,2,Preescolar o primaria,  7
+10,Durango,3,Secundaria,  194
+10,Durango,4,Preparatoria,  696
+10,Durango,5,Carrera técnica o carrera comercial,  34
+10,Durango,6,Licenciatura,  515
+10,Durango,7,Maestría,  8
+10,Durango,8,Doctorado,  2
+11,Guanajuato,0,Total, 4 152
+11,Guanajuato,1,Ninguno,-
+11,Guanajuato,2,Preescolar o primaria,-
+11,Guanajuato,3,Secundaria, 1 630
+11,Guanajuato,4,Preparatoria, 2 032
+11,Guanajuato,5,Carrera técnica o carrera comercial,  59
+11,Guanajuato,6,Licenciatura,  411
+11,Guanajuato,7,Maestría,  19
+11,Guanajuato,8,Doctorado,  1
+12,Guerrero,0,Total, 5 966
+12,Guerrero,1,Ninguno,  0
+12,Guerrero,2,Preescolar o primaria,  321
+12,Guerrero,3,Secundaria, 2 081
+12,Guerrero,4,Preparatoria, 2 324
+12,Guerrero,5,Carrera técnica o carrera comercial,  168
+12,Guerrero,6,Licenciatura, 1 042
+12,Guerrero,7,Maestría,  28
+12,Guerrero,8,Doctorado,  2
+13,Hidalgo,0,Total, 5 173
+13,Hidalgo,1,Ninguno,  8
+13,Hidalgo,2,Preescolar o primaria,  114
+13,Hidalgo,3,Secundaria, 2 144
+13,Hidalgo,4,Preparatoria, 1 513
+13,Hidalgo,5,Carrera técnica o carrera comercial,  595
+13,Hidalgo,6,Licenciatura,  775
+13,Hidalgo,7,Maestría,  23
+13,Hidalgo,8,Doctorado,  1
+14,Jalisco,0,Total, 5 818
+14,Jalisco,1,Ninguno,  77
+14,Jalisco,2,Preescolar o primaria,  64
+14,Jalisco,3,Secundaria,  863
+14,Jalisco,4,Preparatoria, 2 624
+14,Jalisco,5,Carrera técnica o carrera comercial,  477
+14,Jalisco,6,Licenciatura, 1 609
+14,Jalisco,7,Maestría,  98
+14,Jalisco,8,Doctorado,  6
+15,México,0,Total, 20 122
+15,México,1,Ninguno,  0
+15,México,2,Preescolar o primaria,  31
+15,México,3,Secundaria, 4 231
+15,México,4,Preparatoria, 10 743
+15,México,5,Carrera técnica o carrera comercial,  907
+15,México,6,Licenciatura, 3 963
+15,México,7,Maestría,  242
+15,México,8,Doctorado,  5
+16,Michoacán de Ocampo1,0,Total, 1 414
+16,Michoacán de Ocampo1,1,Ninguno,  4
+16,Michoacán de Ocampo1,2,Preescolar o primaria,  43
+16,Michoacán de Ocampo1,3,Secundaria,  186
+16,Michoacán de Ocampo1,4,Preparatoria,  118
+16,Michoacán de Ocampo1,5,Carrera técnica o carrera comercial,  514
+16,Michoacán de Ocampo1,6,Licenciatura,  532
+16,Michoacán de Ocampo1,7,Maestría,  17
+16,Michoacán de Ocampo1,8,Doctorado,  0
+17,Morelos,0,Total, 1 804
+17,Morelos,1,Ninguno,  0
+17,Morelos,2,Preescolar o primaria,  17
+17,Morelos,3,Secundaria,  830
+17,Morelos,4,Preparatoria,  639
+17,Morelos,5,Carrera técnica o carrera comercial,  99
+17,Morelos,6,Licenciatura,  202
+17,Morelos,7,Maestría,  15
+17,Morelos,8,Doctorado,  2
+18,Nayarit,0,Total, 1 728
+18,Nayarit,1,Ninguno,  0
+18,Nayarit,2,Preescolar o primaria,  0
+18,Nayarit,3,Secundaria,  91
+18,Nayarit,4,Preparatoria,  585
+18,Nayarit,5,Carrera técnica o carrera comercial,  488
+18,Nayarit,6,Licenciatura,  551
+18,Nayarit,7,Maestría,  13
+18,Nayarit,8,Doctorado,  0
+19,Nuevo León,0,Total, 7 359
+19,Nuevo León,1,Ninguno,  0
+19,Nuevo León,2,Preescolar o primaria,  20
+19,Nuevo León,3,Secundaria, 2 205
+19,Nuevo León,4,Preparatoria, 3 187
+19,Nuevo León,5,Carrera técnica o carrera comercial,  273
+19,Nuevo León,6,Licenciatura, 1 603
+19,Nuevo León,7,Maestría,  63
+19,Nuevo León,8,Doctorado,  8
+20,Oaxaca,0,Total, 8 202
+20,Oaxaca,1,Ninguno,  336
+20,Oaxaca,2,Preescolar o primaria,  475
+20,Oaxaca,3,Secundaria, 3 179
+20,Oaxaca,4,Preparatoria, 3 037
+20,Oaxaca,5,Carrera técnica o carrera comercial,  130
+20,Oaxaca,6,Licenciatura, 1 026
+20,Oaxaca,7,Maestría,  18
+20,Oaxaca,8,Doctorado,  1
+21,Puebla,0,Total, 6 230
+21,Puebla,1,Ninguno,  0
+21,Puebla,2,Preescolar o primaria,  88
+21,Puebla,3,Secundaria, 1 708
+21,Puebla,4,Preparatoria, 2 651
+21,Puebla,5,Carrera técnica o carrera comercial,  378
+21,Puebla,6,Licenciatura, 1 312
+21,Puebla,7,Maestría,  91
+21,Puebla,8,Doctorado,  2
+22,Querétaro,0,Total, 1 109
+22,Querétaro,1,Ninguno,  0
+22,Querétaro,2,Preescolar o primaria,  4
+22,Querétaro,3,Secundaria,  32
+22,Querétaro,4,Preparatoria,  652
+22,Querétaro,5,Carrera técnica o carrera comercial,  52
+22,Querétaro,6,Licenciatura,  334
+22,Querétaro,7,Maestría,  35
+22,Querétaro,8,Doctorado,  0
+23,Quintana Roo,0,Total, 2 304
+23,Quintana Roo,1,Ninguno,  0
+23,Quintana Roo,2,Preescolar o primaria,  26
+23,Quintana Roo,3,Secundaria,  254
+23,Quintana Roo,4,Preparatoria,  876
+23,Quintana Roo,5,Carrera técnica o carrera comercial,  656
+23,Quintana Roo,6,Licenciatura,  223
+23,Quintana Roo,7,Maestría,  261
+23,Quintana Roo,8,Doctorado,  8
+24,San Luis Potosí,0,Total, 3 632
+24,San Luis Potosí,1,Ninguno,  25
+24,San Luis Potosí,2,Preescolar o primaria,  4
+24,San Luis Potosí,3,Secundaria,  78
+24,San Luis Potosí,4,Preparatoria, 2 580
+24,San Luis Potosí,5,Carrera técnica o carrera comercial,  53
+24,San Luis Potosí,6,Licenciatura,  875
+24,San Luis Potosí,7,Maestría,  17
+24,San Luis Potosí,8,Doctorado,  0
+25,Sinaloa,0,Total, 1 811
+25,Sinaloa,1,Ninguno,  0
+25,Sinaloa,2,Preescolar o primaria,  8
+25,Sinaloa,3,Secundaria,  625
+25,Sinaloa,4,Preparatoria,  671
+25,Sinaloa,5,Carrera técnica o carrera comercial,  57
+25,Sinaloa,6,Licenciatura,  434
+25,Sinaloa,7,Maestría,  16
+25,Sinaloa,8,Doctorado,  0
+26,Sonora,0,Total, 1 792
+26,Sonora,1,Ninguno,  62
+26,Sonora,2,Preescolar o primaria,  16
+26,Sonora,3,Secundaria,  43
+26,Sonora,4,Preparatoria,  897
+26,Sonora,5,Carrera técnica o carrera comercial,  105
+26,Sonora,6,Licenciatura,  641
+26,Sonora,7,Maestría,  28
+26,Sonora,8,Doctorado,  0
+27,Tabasco,0,Total, 7 549
+27,Tabasco,1,Ninguno,  0
+27,Tabasco,2,Preescolar o primaria,  210
+27,Tabasco,3,Secundaria, 1 277
+27,Tabasco,4,Preparatoria, 5 907
+27,Tabasco,5,Carrera técnica o carrera comercial,  0
+27,Tabasco,6,Licenciatura,  155
+27,Tabasco,7,Maestría,  0
+27,Tabasco,8,Doctorado,  0
+28,Tamaulipas,0,Total, 4 684
+28,Tamaulipas,1,Ninguno,  343
+28,Tamaulipas,2,Preescolar o primaria,  36
+28,Tamaulipas,3,Secundaria,  833
+28,Tamaulipas,4,Preparatoria,  0
+28,Tamaulipas,5,Carrera técnica o carrera comercial, 2 705
+28,Tamaulipas,6,Licenciatura,  740
+28,Tamaulipas,7,Maestría,  26
+28,Tamaulipas,8,Doctorado,  1
+29,Tlaxcala,0,Total, 1 890
+29,Tlaxcala,1,Ninguno,  0
+29,Tlaxcala,2,Preescolar o primaria,  2
+29,Tlaxcala,3,Secundaria,  125
+29,Tlaxcala,4,Preparatoria, 1 381
+29,Tlaxcala,5,Carrera técnica o carrera comercial,  44
+29,Tlaxcala,6,Licenciatura,  327
+29,Tlaxcala,7,Maestría,  11
+29,Tlaxcala,8,Doctorado,  0
+30,Veracruz de Ignacio de la Llave2,0,Total, 13 683
+30,Veracruz de Ignacio de la Llave2,1,Ninguno,  10
+30,Veracruz de Ignacio de la Llave2,2,Preescolar o primaria,  74
+30,Veracruz de Ignacio de la Llave2,3,Secundaria, 2 090
+30,Veracruz de Ignacio de la Llave2,4,Preparatoria, 7 423
+30,Veracruz de Ignacio de la Llave2,5,Carrera técnica o carrera comercial,  390
+30,Veracruz de Ignacio de la Llave2,6,Licenciatura, 3 447
+30,Veracruz de Ignacio de la Llave2,7,Maestría,  230
+30,Veracruz de Ignacio de la Llave2,8,Doctorado,  19
+31,Yucatán,0,Total, 5 364
+31,Yucatán,1,Ninguno,  0
+31,Yucatán,2,Preescolar o primaria,  150
+31,Yucatán,3,Secundaria, 1 324
+31,Yucatán,4,Preparatoria, 2 569
+31,Yucatán,5,Carrera técnica o carrera comercial,  447
+31,Yucatán,6,Licenciatura,  845
+31,Yucatán,7,Maestría,  29
+31,Yucatán,8,Doctorado,  0
+32,Zacatecas,0,Total, 2 738
+32,Zacatecas,1,Ninguno,  0
+32,Zacatecas,2,Preescolar o primaria,  34
+32,Zacatecas,3,Secundaria,  429
+32,Zacatecas,4,Preparatoria, 1 235
+32,Zacatecas,5,Carrera técnica o carrera comercial,  268
+32,Zacatecas,6,Licenciatura,  719
+32,Zacatecas,7,Maestría,  47
+32,Zacatecas,8,Doctorado,  6
